@@ -1,0 +1,172 @@
+hospital_name_1,hospital_name_2,hospital_name_3,scn,trust,site_name
+Queens Hospital Romford HASU,Queens Hospital Romford SU,,London,"Barking, Havering and Redbridge University Hospitals NHS Trust","Barking, Havering and Redbridge University Hospitals NHS Trust"
+Newham General Hospital,,,London,Barts Health NHS Trust,Barts Health NHS Trust (Newham University Hospital)
+Royal London Hospital HASU,Royal London Hospital SU,,London,Barts Health NHS Trust,Barts Health NHS Trust (Royal London Hospital)
+Whipps Cross University Hospital,,,London,Barts Health NHS Trust,Barts Health NHS Trust (Whipps Cross University Hospital)
+Charing Cross Hospital HASU,Charing Cross Hospital SU,,London,Imperial College Healthcare NHS Trust,Imperial College Healthcare NHS Trust
+King's College Hospital HASU,King's College Hospital SU,,London,King's College Hospital NHS Foundation Trust,King's College Hospital NHS Foundation Trust (King's College Hospital)
+Princess Royal University Hospital HASU,Princess Royal University Hospital SU,,London,King's College Hospital NHS Foundation Trust,King's College Hospital NHS Foundation Trust (Princess Royal University Hospital)
+Northwick Park Hospital HASU,Northwick Park Hospital SU,,London,London North West University Healthcare NHS Trust,London North West University Healthcare NHS Trust (Northwick Park Hospital)
+St George's Hospital HASU,St George's Hospital SU,,London,St George's University Hospitals NHS Foundation Trust,St George's Healthcare NHS Foundation Trust
+University College Hospital HASU,University College Hospital SU,,London,University College London Hospitals NHS Foundation Trust,University College London Hospitals NHS Foundation Trust
+St Helier Hospital,,,London,Epsom and St Helier University Hospitals NHS Trust,Epsom and St Helier University Hospitals NHS Trust (St Helier Hospital)
+Chelsea and Westminster Hospital,,,London,Chelsea and Westminster Hospital NHS Foundation Trust,Chelsea and Westminster Hospital NHS Foundation Trust
+West Middlesex University Hospital,,,London,Chelsea and Westminster Hospital NHS Foundation Trust,Chelsea and Westminster Hospital NHS Foundation Trust (West Middlesex University Hospital)
+Croydon University Hospital,,,London,Croydon Health Services NHS Trust,Croydon Health Services NHS Trust
+St Thomas Hospital,,,London,Guy's and St Thomas' NHS Foundation Trust,Guy's and St Thomas' Hospital NHS Foundation Trust
+Hillingdon Hospital,,,London,Hillingdon Hospitals NHS Foundation Trust,Hillingdon Hospitals NHS Foundation Trust
+Homerton University Hospital,,,London,Homerton University Hospital NHS Foundation Trust,Homerton University Hospital NHS Foundation Trust
+Kingston Hospital,,,London,Kingston Hospital NHS Foundation Trust,Kingston Hospital NHS Foundation Trust
+University Hospital Lewisham,,,London,Lewisham and Greenwich NHS Trust,Lewisham and Greenwich NHS Trust
+North Middlesex Hospital,,,London,North Middlesex University Hospital NHS Trust,North Middlesex University Hospital NHS Trust
+Royal Free Hospital,,,London,Royal Free London NHS Foundation Trust,Royal Free London NHS Foundation Trust (Royal Free Hospital)
+Barnet General Hospital,,,London,Royal Free London NHS Foundation Trust,Royal Free London NHS Foundation Trust (Barnet General Hospital)
+Northampton General Hospital,,,East Midlands,Northampton General Hospital NHS Trust,Northampton General Hospital NHS Trust
+Nottingham City Hospital,,,East Midlands,Nottingham University Hospitals NHS Trust,Nottingham University Hospitals NHS Trust (Nottingham City Hospital)
+Kings Mill Hospital,,,East Midlands,Sherwood Forest Hospitals NHS Foundation Trust,Sherwood Forest Hospitals NHS Foundation Trust
+Lincoln County Hospital,,,East Midlands,United Lincolnshire Hospitals NHS Trust,United Lincolnshire Hospitals NHS Trust (Lincoln County Hospital)
+Pilgrim Hospital,,,East Midlands,United Lincolnshire Hospitals NHS Trust,United Lincolnshire Hospitals NHS Trust (Pilgrim Hospital)
+Royal Derby Hospital,,,East Midlands,University Hospitals of Derby and Burton NHS Foundation Trust,University Hospitals of Derby and Burton NHS Foundation Trust (Royal Derby Hospital)
+Leicester Royal Infirmary,,,East Midlands,University Hospitals of Leicester NHS Trust,University Hospitals of Leicester NHS Trust
+Basildon University Hospital,,,East of England,Basildon and Thurrock University Hospitals NHS Foundation Trust,Basildon and Thurrock University Hospitals NHS Foundation Trust
+Addenbrooke's Hospital,,,East of England,Cambridge University Hospitals NHS Foundation Trust,Cambridge University Hospitals NHS Foundation Trust
+Colchester General Hospital,,,East of England,East Suffolk and North Essex NHS Foundation Trust,East Suffolk and North Essex NHS Foundation Trust (Colchester General Hospital)
+Ipswich Hospital,,,East of England,East Suffolk and North Essex NHS Foundation Trust,East Suffolk and North Essex NHS Foundation Trust (Ipswich Hospital)
+Lister Hospital,,,East of England,East and North Hertfordshire NHS Trust,East and North Hertfordshire NHS Trust
+James Paget Hospital,,,East of England,James Paget University Hospitals NHS Foundation Trust,James Paget University Hospitals NHS Foundation Trust
+Luton and Dunstable Hospital,,,East of England,Luton and Dunstable University Hospital NHS Foundation Trust,Luton and Dunstable University Hospital NHS Foundation Trust
+Broomfield Hospital,,,East of England,Mid Essex Hospital Services NHS Trust,Mid Essex Hospital Services NHS Trust
+Norfolk and Norwich University Hospital,,,East of England,Norfolk and Norwich University Hospitals NHS Foundation Trust,Norfolk and Norwich University Hospitals NHS Foundation Trust
+Peterborough City Hospital,Hinchingbrooke Hospital,,East of England,North West Anglia NHS Foundation Trust,North West Anglia NHS Foundation Trust
+Queen Elizabeth Hospital Kings Lynn,,,East of England,Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,Queen Elizabeth Hospital King's Lynn NHS Foundation Trust
+Southend Hospital,,,East of England,Southend University Hospital NHS Foundation Trust,Southend University Hospital NHS Foundation Trust
+Watford General Hospital,,,East of England,West Hertfordshire Hospitals NHS Trust,West Hertfordshire Hospitals NHS Trust
+West Suffolk Hospital,,,East of England,West Suffolk NHS Foundation Trust,West Suffolk Hospital NHS Foundation Trust
+Bedford Hospital,,,East of England,Bedford Hospital NHS Trust,Bedford Hospital NHS Trust
+Queens Hospital Burton upon Trent,,,West Midlands,University Hospitals of Derby and Burton NHS Foundation Trust,University Hospitals of Derby and Burton NHS Foundation Trust (Queens Hospital Burton upon Trust)
+Russells Hall Hospital,,,West Midlands,Dudley Group NHS Foundation Trust,Dudley Group NHS Foundation Trust
+George Eliot Hospital,,,West Midlands,George Eliot Hospital NHS Trust,George Eliot Hospital NHS Trust
+New Cross Hospital,,,West Midlands,Royal Wolverhampton NHS Trust,The Royal Wolverhampton Hospitals NHS Trust
+Sandwell District Hospital,,,West Midlands,Sandwell and West Birmingham Hospitals NHS Trust,Sandwell and West Birmingham Hospitals NHS Trust (Sandwell District Hospital)
+Princess Royal Hospital Telford,,,West Midlands,Shrewsbury and Telford Hospital NHS Trust,Shrewsbury and Telford Hospital NHS Trust
+Warwick Hospital,,,West Midlands,South Warwickshire NHS Foundation Trust,South Warwickshire NHS Foundation Trust
+Queen Elizabeth Hospital Edgbaston,,,West Midlands,University Hospitals Birmingham NHS Foundation Trust,University Hospitals Birmingham NHS Foundation Trust (Queen Elizabeth Hospital Edgbaston)
+Birmingham Heartlands Hospital,,,West Midlands,University Hospitals Birmingham NHS Foundation Trust,University Hospitals Birmingham NHS Foundation Trust (Birmingham Heartlands)
+Good Hope General Hospital,,,West Midlands,University Hospitals Birmingham NHS Foundation Trust,University Hospitals Birmingham NHS Foundation Trust (Good Hope Hospital)
+Solihull Hospital,,,West Midlands,University Hospitals Birmingham NHS Foundation Trust,University Hospitals Birmingham NHS Foundation Trust (Solihull Hospital)
+University Hospital Coventry,,,West Midlands,University Hospitals Coventry and Warwickshire NHS Trust,University Hospitals Coventry and Warwickshire NHS Trust
+Royal Stoke University Hospital,,,West Midlands,University Hospitals of North Midlands NHS Trust,University Hospitals of North Midlands NHS Trust
+Worcestershire Royal Hospital,,,West Midlands,Worcestershire Acute Hospitals NHS Trust,Worcestershire Acute Hospitals NHS Trust (Worcestershire Royal Hospital)
+Hereford County Hospital,,,West Midlands,Wye Valley NHS Trust,Wye Valley NHS Trust
+Fairfield General Hospital,,,Greater Manchester and Eastern Cheshire,Pennine Acute Hospitals NHS Trust,Pennine Acute Hospitals NHS Trust
+Salford Royal Hospital,,,Greater Manchester and Eastern Cheshire,Salford Royal NHS Foundation Trust,Salford Royal NHS Foundation Trust
+Stepping Hill Hospital,,,Greater Manchester and Eastern Cheshire,Stockport NHS Foundation Trust,Stockport NHS Foundation Trust
+Royal Bolton Hospital,,,Greater Manchester and Eastern Cheshire,Bolton NHS Foundation Trust,Bolton NHS Foundation Trust
+Trafford General Hospital,,,Greater Manchester and Eastern Cheshire,Manchester University NHS Foundation Trust,Manchester University NHS Foundation Trust (Trafford General Hospital)
+Wythenshawe Hospital,,,Greater Manchester and Eastern Cheshire,Manchester University NHS Foundation Trust,Manchester University NHS Foundation Trust (Wythenshawe Hospital)
+Manchester Royal Infirmary,,,Greater Manchester and Eastern Cheshire,Manchester University NHS Foundation Trust,Manchester University NHS Foundation Trust (Manchester Royal Infirmary)
+Tameside General Hospital,,,Greater Manchester and Eastern Cheshire,Tameside and Glossop Integrated Care NHS Foundation Trust,Tameside and Glossop Integrated Care NHS Foundation Trust
+Royal Albert Edward Infirmary,,,Greater Manchester and Eastern Cheshire,"Wrightington, Wigan and Leigh NHS Foundation Trust","Wrightington, Wigan and Leigh NHS Foundation Trust"
+University Hospital Aintree,,,North West Coast,Aintree University Hospital NHS Foundation Trust,Aintree University Hospital NHS Foundation Trust
+Blackpool Victoria Hospital,,,North West Coast,Blackpool Teaching Hospitals NHS Foundation Trust,Blackpool Teaching Hospitals NHS Foundation Trust
+Countess of Chester Hospital,,,North West Coast,Countess of Chester Hospital NHS Foundation Trust,Countess of Chester Hospital NHS Foundation Trust
+Royal Blackburn Hospital,,,North West Coast,East Lancashire Hospitals NHS Trust,East Lancashire Hospitals NHS Trust
+Royal Preston Hospital,,,North West Coast,Lancashire Teaching Hospitals NHS Foundation Trust,Lancashire Teaching Hospitals NHS Foundation Trust
+Leighton Hospital,,,North West Coast,Mid Cheshire Hospitals NHS Foundation Trust,Mid Cheshire Hospitals NHS Foundation Trust
+Royal Liverpool University Hospital,,,North West Coast,Royal Liverpool and Broadgreen University Hospitals NHS Trust,Royal Liverpool and Broadgreen University Hospitals NHS Trust
+Southport and Formby District General,,,North West Coast,Southport and Ormskirk Hospital NHS Trust,Southport and Ormskirk Hospital NHS Trust
+Whiston Hospital HASU,Whiston Hospital SU,,North West Coast,St Helens and Knowsley Teaching Hospitals NHS Trust,St Helens and Knowsley Teaching Hospitals NHS Trust
+Furness General Hospital,,,North West Coast,University Hospitals of Morecambe Bay NHS Foundation Trust,University Hospitals of Morecambe Bay NHS Foundation Trust (Furness General Hospital)
+Royal Lancaster Infirmary,,,North West Coast,University Hospitals of Morecambe Bay NHS Foundation Trust,University Hospitals of Morecambe Bay NHS Foundation Trust (Royal Lancaster Infirmary)
+Arrowe Park Hospital,,,North West Coast,Wirral University Teaching Hospital NHS Foundation Trust,Wirral University Teaching Hospital NHS Foundation Trust
+Warrington Hospital,,,North West Coast,Warrington and Halton Hospitals NHS Foundation Trust,Warrington and Halton Hospitals NHS Foundation Trust
+University Hospital of North Durham,,,North of England,County Durham and Darlington NHS Foundation Trust,County Durham and Darlington NHS Foundation Trust
+Royal Victoria Infirmary,,,North of England,Newcastle upon Tyne Hospitals NHS Foundation Trust,Newcastle upon Tyne Hospitals NHS Foundation Trust
+West Cumberland Hospital,,,North of England,North Cumbria University Hospitals NHS Trust,North Cumbria University Hospitals NHS Trust (West Cumberland Hospital)
+Cumberland Infirmary,,,North of England,North Cumbria University Hospitals NHS Trust,North Cumbria University Hospitals NHS Trust (Cumberland Infirmary)
+University Hospitals of North Tees and Hartlepool,,,North of England,North Tees and Hartlepool NHS Foundation Trust,North Tees and Hartlepool NHS Foundation Trust
+Northumbria Specialist Emergency Care Hospital HASU,,,North of England,Northumbria Healthcare NHS Foundation Trust,Northumbria Healthcare NHS Foundation Trust (Northumbria Specialist Emergency Care Hospital)
+Hexham General Hospital,,,North of England,Northumbria Healthcare NHS Foundation Trust,Northumbria Healthcare NHS Foundation Trust (Hexham Hospital)
+North Tyneside General Hospital,,,North of England,Northumbria Healthcare NHS Foundation Trust,Northumbria Healthcare NHS Foundation Trust (North Tyneside General Hospital)
+Wansbeck General Hospital,,,North of England,Northumbria Healthcare NHS Foundation Trust,Northumbria Healthcare NHS Foundation Trust (Wansbeck General Hospital)
+James Cook University Hospital,,,North of England,South Tees Hospitals NHS Foundation Trust,South Tees Hospitals NHS Foundation Trust
+Sunderland Royal Hospital,,,North of England,South Tyneside and Sunderland NHS Foundation Trust,South Tyneside and Sunderland NHS Foundation Trust (Sunderland Hospital)
+Queen Elizabeth Hospital Gateshead,,,North of England,Gateshead Health NHS Foundation Trust,Gateshead Health NHS Foundation Trust
+Barnsley Hospital,,,Yorkshire and The Humber,Barnsley Hospital NHS Foundation Trust,Barnsley Hospital NHS Foundation Trust
+Bradford and Airedale SU,,,Yorkshire and The Humber,Bradford Teaching Hospitals NHS Foundation Trust,Bradford Teaching Hospitals and Airedale NHS Foundation Trusts
+Calderdale Royal Hospital,,,Yorkshire and The Humber,Calderdale and Huddersfield NHS Foundation Trust,Calderdale and Huddersfield NHS Foundation Trust
+Chesterfield Royal,,,Yorkshire and The Humber,Chesterfield Royal Hospital NHS Foundation Trust,Chesterfield Royal Hospital NHS Foundation Trust
+Doncaster Royal Infirmary,,,Yorkshire and The Humber,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust
+Hull Royal Infirmary,,,Yorkshire and The Humber,Hull University Teaching Hospitals NHS Trust,Hull University Teaching Hospitals NHS Trust
+Leeds General Infirmary,,,Yorkshire and The Humber,Leeds Teaching Hospitals NHS Trust,Leeds Teaching Hospitals NHS Trust
+Pinderfields Hospital,,,Yorkshire and The Humber,Mid Yorkshire Hospitals NHS Trust,Mid Yorkshire Hospitals NHS Trust
+Scunthorpe General Hospital,Diana Princess of Wales Hospital Grimsby,,Yorkshire and The Humber,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust
+Rotherham Hospital,,,Yorkshire and The Humber,Rotherham NHS Foundation Trust,Rotherham NHS Foundation Trust
+Royal Hallamshire Hospital,,,Yorkshire and The Humber,Sheffield Teaching Hospitals NHS Foundation Trust,Sheffield Teaching Hospitals NHS Foundation Trust
+York Hospital,,,Yorkshire and The Humber,York Teaching Hospital NHS Foundation Trust,York Teaching Hospital NHS Foundation Trust (York Hospital)
+Scarborough General Hospital,,,Yorkshire and The Humber,York Teaching Hospital NHS Foundation Trust,York Teaching Hospital NHS Foundation Trust (Scarborough Hospital)
+Harrogate District Hospital,,,Yorkshire and The Humber,Harrogate and District NHS Foundation Trust,Harrogate and District NHS Foundation Trust
+St Peter's Hospital,,,South East,Ashford and St Peter's Hospitals NHS Foundation Trust,Ashford and St Peter's Hospitals NHS Foundation Trust
+Royal Sussex County Hospital,,,South East,Brighton and Sussex University Hospitals NHS Trust,Brighton and Sussex University Hospitals NHS Trust (Royal Sussex County Hospital)
+Darent Valley Hospital,,,South East,Dartford and Gravesham NHS Trust,Dartford and Gravesham NHS Trust
+Queen Elizabeth the Queen Mother Hospital,,,South East,East Kent Hospitals University NHS Foundation Trust,East Kent Hospitals University NHS Foundation Trust (Queen Elizabeth The Queen Mother Hospital)
+William Harvey Hospital,,,South East,East Kent Hospitals University NHS Foundation Trust,East Kent Hospitals University NHS Foundation Trust (William Harvey Hospital)
+Eastbourne District General Hospital,,,South East,East Sussex Healthcare NHS Trust,East Sussex Healthcare NHS Trust (Eastbourne District General Hospital)
+Epsom Hospital,,,South East,Epsom and St Helier University Hospitals NHS Trust,Epsom and St Helier University Hospitals NHS Trust (Epsom Hospital)
+Frimley Park Hospital,,,South East,Frimley Health NHS Foundation Trust,Frimley Health NHS Foundation Trust (Frimley Park Hospital)
+Maidstone District General Hospital,,,South East,Maidstone and Tunbridge Wells NHS Trust,Maidstone and Tunbridge Wells NHS Trust (Maidstone Hospital)
+Tunbridge Wells Hospital,,,South East,Maidstone and Tunbridge Wells NHS Trust,Maidstone and Tunbridge Wells NHS Trust (Tunbridge Wells Hospital)
+Medway Maritime Hospital,,,South East,Medway NHS Foundation Trust,"Medway NHS Foundation Trust (Medway Community Healthcare, Kent Community Health)"
+East Surrey Hospital,,,South East,Surrey and Sussex Healthcare NHS Trust,Surrey and Sussex Healthcare NHS Trust
+Worthing Hospital,,,South East,Western Sussex Hospitals NHS Foundation Trust,Western Sussex Hospitals NHS Trust (Worthing Hospital)
+St Richards Hospital,,,South East,Western Sussex Hospitals NHS Foundation Trust,Western Sussex Hospitals NHS Trust (St Richard's Hospital)
+Royal Surrey County Hospital,,,South East,Royal Surrey County Hospital NHS Foundation Trust,Royal Surrey County Hospital NHS Foundation Trust
+Gloucestershire Royal Hospital,,,South West,Gloucestershire Hospitals NHS Foundation Trust,Gloucestershire Hospitals NHS Foundation Trust
+Great Western Hospital Swindon,,,South West,Great Western Hospitals NHS Foundation Trust,Great Western Hospitals NHS Foundation Trust
+North Bristol Hospitals,,,South West,North Bristol NHS Trust,North Bristol NHS Trust
+North Devon District Hospital,,,South West,Northern Devon Healthcare NHS Trust,Northern Devon Healthcare NHS Trust
+Royal Cornwall Hospital,,,South West,Royal Cornwall Hospitals NHS Trust,Royal Cornwall Hospitals NHS Trust
+Royal Devon and Exeter Hospital,,,South West,Royal Devon and Exeter NHS Foundation Trust,Royal Devon and Exeter NHS Foundation Trust
+Royal United Hospital Bath,,,South West,Royal United Hospitals Bath NHS Foundation Trust,Royal United Hospital Bath NHS Foundation Trust
+Salisbury District Hospital,,,South West,Salisbury NHS Foundation Trust,Salisbury NHS Foundation Trust
+Musgrove Park Hospital,,,South West,Taunton and Somerset NHS Foundation Trust,Taunton and Somerset NHS Foundation Trust
+Torbay Hospital,Newton Abbot Hospital,,South West,Torbay and South Devon NHS Foundation Trust,Torbay and South Devon NHS Foundation Trust
+University Hospitals Bristol Inpatient Team,,,South West,University Hospitals Bristol NHS Foundation Trust,University Hospitals Bristol NHS Foundation Trust
+Derriford Hospital,,,South West,University Hospitals Plymouth NHS Trust,University Hospitals Plymouth NHS Trust (Derriford Hospital)
+Weston General Hospital,,,South West,Weston Area Health NHS Trust,Weston Area Health NHS Trust
+Yeovil District Hospital,,,South West,Yeovil District Hospital NHS Foundation Trust,Yeovil District Hospital NHS Foundation Trust
+Wycombe General Hospital,,,Thames Valley,Buckinghamshire Healthcare NHS Trust,Buckinghamshire Healthcare NHS Trust
+Milton Keynes General Hospital,,,Thames Valley,Milton Keynes University Hospital NHS Foundation Trust,Milton Keynes University Hospital NHS Foundation Trust
+John Radcliffe Hospital,,,Thames Valley,Oxford University Hospitals NHS Foundation Trust,Oxford University Hospitals NHS Foundation Trust (John Radcliffe Hospital)
+Horton General Hospital,,,Thames Valley,Oxford University Hospitals NHS Foundation Trust,Oxford University Hospitals NHS Foundation Trust (Horton General Hospital)
+Royal Berkshire Hospital,,,Thames Valley,Royal Berkshire NHS Foundation Trust,Royal Berkshire NHS Foundation Trust
+Dorset County Hospital,,,Wessex,Dorset County Hospital NHS Foundation Trust,Dorset County Hospital NHS Foundation Trust
+Royal Hampshire County Hospital,,,Wessex,Hampshire Hospitals NHS Foundation Trust,Hampshire Hospitals NHS Foundation Trust
+St Mary's Hospital Newport,,,Wessex,Isle of Wight NHS Trust,Isle of Wight NHS Trust
+Poole Hospital,,,Wessex,Poole Hospital NHS Foundation Trust,Poole Hospital NHS Foundation Trust
+Queen Alexandra Hospital Portsmouth,,,Wessex,Portsmouth Hospitals NHS Trust,Portsmouth Hospitals NHS Trust
+Royal Bournemouth General Hospital,,,Wessex,Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust
+Southampton General Hospital,,,Wessex,University Hospital Southampton NHS Foundation Trust,University Hospital Southampton NHS Foundation Trust
+Royal Gwent Hospital,Nevill Hall Hospital,Ysbyty Ystrad Fawr,Wales,Aneurin Bevan University Health Board,"Aneurin Bevan University Health Board (Nevill Hall Hospital, Royal Gwent and Ysbyty Ystrad Fawr)"
+Glan Clwyd District General Hospital,,,Wales,Betsi Cadwaladr University Health Board,Betsi Cadwaladr University Health Board (Glan Clwyd District General Hospital)
+Maelor Hospital,,,Wales,Betsi Cadwaladr University Health Board,Betsi Cadwaladr University Health Board (Wrexham Maelor Hospital)
+Ysbyty Gwynedd,,,Wales,Betsi Cadwaladr University Health Board,Betsi Cadwaladr University Health Board (Ysbyty Gwynedd)
+University Hospital of Wales,,,Wales,Cardiff and Vale University Health Board,Cardiff and Vale University Health Board
+Princess Of Wales Hospital,,,Wales,Cwm Taf Morgannwg University Local Health Board,Cwm Taf Morgannwg University Local Health Board (Princess of Wales Hospital)
+Prince Charles Hospital,,,Wales,Cwm Taf Morgannwg University Local Health Board,Cwm Taf Morgannwg University Local Health Board (Prince Charles Hospital)
+West Wales General,,,Wales,Hywel Dda Health Board,Hywel Dda Health Board (West Wales Hospital)
+Withybush General Hospital,,,Wales,Hywel Dda Health Board,Hywel Dda Health Board (Withybush General Hospital)
+Prince Philip Hospital,,,Wales,Hywel Dda Health Board,Hywel Dda Health Board (Prince Philip Hospital)
+Bronglais Hospital,,,Wales,Hywel Dda Health Board,Hywel Dda Health Board (Bronglais General Hospital)
+Morriston Hospital,,,Wales,Swansea Bay University Local Health Board,Swansea Bay University Local Health Board (Morriston Hospital)
+Royal Victoria Hospital Belfast,,,Northern Ireland,Belfast Health and Social Care Trust,Belfast Health and Social Care Trust (Royal Victoria Hospital Belfast)
+Causeway Hospital,,,Northern Ireland,Northern Health and Social Care Trust,Northern Health and Social Care Trust (Causeway Hospital)
+Antrim Area Hospital,,,Northern Ireland,Northern Health and Social Care Trust,Northern Health and Social Care Trust (Antrim Area Hospital)
+Ulster Hospital,,,Northern Ireland,South Eastern Health and Social Care Trust,South Eastern Health and Social Care Trust (Ulster Hospitals)
+Craigavon Area Hospital,,,Northern Ireland,Southern Health and Social Care Trust,Southern Health and Social Care Trust (Craigavon Area)
+Daisy Hill Hospital,,,Northern Ireland,Southern Health and Social Care Trust,Southern Health and Social Care Trust (Daisy Hill Hospital)
+Altnagelvin Hospital,,,Northern Ireland,Western Health and Social Care Trust,Western Health and Social Care Trust (Altnagelvin Hospitals)
+South West Acute Hospital,,,Northern Ireland,Western Health and Social Care Trust,Western Health and Social Care Trust (South West Acute Hospital)
+Noble's Hospital,,,Islands,Isle of Man Department of Health and Social Care,Isle of Man Department of Health and Social Care
+Walton Centre Stroke Team,,,North West Coast,Walton Centre NHS Foundation Trust,Walton Centre NHS Foundation Trust
+Queen's Medical Centre - Nottingham,,,East Midlands,Nottingham University Hospitals NHS Trust,"Nottingham University Hospitals NHS Trust (Queens Medical Centre, Nottingham)"
