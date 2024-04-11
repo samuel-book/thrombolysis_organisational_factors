@@ -1,0 +1,120 @@
+stroke_team,hospital_SHAP,benchmark
+Bronglais Hospital,1.4674435,1.0
+Morriston Hospital,1.1231474,1.0
+Royal Berkshire Hospital,0.89604944,1.0
+Watford General Hospital,0.8813893,1.0
+Queen Alexandra Hospital Portsmouth,0.7868182,1.0
+Queen's Medical Centre - Nottingham,0.7794399,1.0
+Luton and Dunstable Hospital,0.76723397,1.0
+Southend Hospital,0.7518983,1.0
+Withybush General Hospital,0.7384041,1.0
+Grange University Hospital,0.7326193,1.0
+James Cook University Hospital,0.7003275,1.0
+Worthing Hospital,0.695394,1.0
+West Wales General,0.66774535,1.0
+Charing Cross Hospital HASU,0.6478773,1.0
+Queens Hospital Romford HASU,0.64190984,1.0
+University Hospitals of North Tees and Hartlepool,0.62643665,1.0
+Whiston Hospital HASU,0.62574536,1.0
+Ipswich Hospital,0.6152158,1.0
+Glan Clwyd District General Hospital,0.5733822,1.0
+Royal Victoria Infirmary,0.57240283,1.0
+John Radcliffe Hospital,0.5643363,1.0
+Royal London Hospital HASU,0.5510983,1.0
+Addenbrooke's Hospital,0.5382731,1.0
+Leicester Royal Infirmary,0.5094021,1.0
+Queen Elizabeth Hospital Kings Lynn,0.41403028,1.0
+University College Hospital HASU,0.41322485,0.0
+Frimley Park Hospital,0.41138616,0.0
+Royal Liverpool University Hospital,0.40265566,0.0
+Northwick Park Hospital HASU,0.39059466,0.0
+St Richards Hospital,0.31499925,0.0
+King's College Hospital HASU,0.28579164,0.0
+Invicta Ward Kent and Canterbury Hospital,0.2730669,0.0
+Princess Royal University Hospital HASU,0.22116677,0.0
+Wycombe General Hospital,0.20808768,0.0
+Pinderfields Hospital,0.20187347,0.0
+Norfolk and Norwich University Hospital,0.18832953,0.0
+Southampton General Hospital,0.17387836,0.0
+Northumbria Specialist Emergency Care Hospital HASU,0.15359789,0.0
+University Hospitals Dorset Stroke Service,0.12728985,0.0
+Maelor Hospital,0.119955055,0.0
+Prince Philip Hospital,0.119534016,0.0
+Calderdale Royal Hospital,0.10223227,0.0
+New Cross Hospital,0.099721596,0.0
+Hull Royal Infirmary,0.078726806,0.0
+Queen Elizabeth the Queen Mother Hospital,0.04504994,0.0
+Furness General Hospital,0.040407635,0.0
+University Hospital of North Durham,0.035741452,0.0
+Yeovil District Hospital,0.031035654,0.0
+St Peter's Hospital,0.026012821,0.0
+Basildon University Hospital,0.015218256,0.0
+Milton Keynes General Hospital,-0.012112173,0.0
+University Hospital of Wales,-0.022189826,0.0
+Princess Royal Hospital Telford,-0.027677596,0.0
+Princess Of Wales Hospital,-0.030424487,0.0
+Sunderland Royal Hospital,-0.030739935,0.0
+Dorset County Hospital,-0.03724322,0.0
+Royal Devon and Exeter Hospital,-0.06340673,0.0
+James Paget Hospital,-0.090445414,0.0
+Warwick Hospital,-0.0944221,0.0
+Royal Lancaster Infirmary,-0.10280355,0.0
+Great Western Hospital Swindon,-0.11152141,0.0
+Royal United Hospital Bath,-0.11401686,0.0
+West Suffolk Hospital,-0.11422981,0.0
+Medway Maritime Hospital,-0.11837448,0.0
+York Hospital,-0.13354185,0.0
+Darent Valley Hospital,-0.1358641,0.0
+Kings Mill Hospital,-0.15563369,0.0
+Wirral Arrowe Park Hospital,-0.164884,0.0
+William Harvey Hospital,-0.16564961,0.0
+Leeds General Infirmary,-0.17120397,0.0
+Lister Hospital,-0.17326373,0.0
+Stepping Hill Hospital,-0.17506982,0.0
+Countess of Chester Hospital,-0.1806413,0.0
+Royal Hampshire County Hospital,-0.19728796,0.0
+Cumberland Infirmary,-0.20372261,0.0
+Salisbury District Hospital,-0.2108644,0.0
+Royal Stoke University Hospital,-0.23392962,0.0
+East Surrey Hospital,-0.23845424,0.0
+Blackpool Victoria Hospital,-0.25942308,0.0
+Broomfield Hospital,-0.25963536,0.0
+Hereford County Hospital,-0.27150443,0.0
+Peterborough City Hospital,-0.2735114,0.0
+Colchester General Hospital,-0.29762432,0.0
+Maidstone District General Hospital,-0.30247036,0.0
+St George's Hospital HASU,-0.32229197,0.0
+North Bristol Hospitals,-0.33130044,0.0
+Doncaster Royal Infirmary,-0.34024748,0.0
+University Hospital Aintree,-0.34827715,0.0
+Royal Hallamshire Hospital,-0.36261588,0.0
+Royal Derby Hospital,-0.42578644,0.0
+Royal Blackburn Hospital,-0.4391657,0.0
+Bradford and Airedale SU,-0.44674188,0.0
+Torbay Hospital,-0.44939256,0.0
+Lincoln County Hospital,-0.45213276,0.0
+Gloucestershire Royal Hospital,-0.45534143,0.0
+Russells Hall Hospital,-0.46112645,0.0
+Fairfield General Hospital,-0.5000047,0.0
+Salford Royal Hospital,-0.54114705,0.0
+Prince Charles Hospital,-0.55039704,0.0
+Worcestershire Royal Hospital,-0.55837333,0.0
+Scunthorpe General Hospital,-0.5640861,0.0
+Ysbyty Gwynedd,-0.5697225,0.0
+Royal Cornwall Hospital,-0.60414624,0.0
+Derriford Hospital,-0.6287775,0.0
+University Hospital Coventry,-0.63235307,0.0
+Northampton General Hospital,-0.65022236,0.0
+Royal Preston Hospital,-0.67652714,0.0
+University Hospitals Bristol Inpatient Team,-0.70685166,0.0
+Sandwell District Hospital,-0.7234404,0.0
+Epsom Hospital,-0.7338684,0.0
+St Mary's Hospital Newport,-0.7547529,0.0
+North Devon District Hospital,-0.77987224,0.0
+Queen Elizabeth Hospital Edgbaston,-0.7823828,0.0
+Royal Sussex County Hospital,-0.8298388,0.0
+Weston General Hospital,-0.8377558,0.0
+Musgrove Park Hospital,-0.85130036,0.0
+Leighton Hospital,-0.888984,0.0
+Chesterfield Royal,-1.1178502,0.0
+Eastbourne District General Hospital,-1.3035042,0.0
