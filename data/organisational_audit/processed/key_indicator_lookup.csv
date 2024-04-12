@@ -1,0 +1,54 @@
+Key indicator,Response required to meet indicator,key_indicator_group,question,property
+"Total Key Indicators Achieved 
+(Post 72hrs sites receive points from KIs 3,4, and 6  from their main acute site)",,,,ki_total
+1,Key Indicator 1:  Minimum establishment of band 6 and band 7 nurses per 10 beds (Criterion: Sum of band 6 and 7 (WTE) nurses per 10 stroke unit beds is equal to/above 2.375 per 10 beds for ALL stroke beds.) ,Staffing/Workforce,,ki1
+1,Band 6 nurses WTE per 10 beds,Staffing/Workforce,,ki1_nurses6_wte
+1,Band 7 nurses WTE per 10 beds,Staffing/Workforce,,ki1_nurses7_wte
+2,Key Indicator 2: Presence of a clinical psychologist (qualified)                                     (Criterion: Presence of at least one (WTE) qualified clinical psychologist per 30 stroke unit beds),Staffing/Workforce,,ki2
+2,Clinical psychologist WTE per 30 beds (qualified),Staffing/Workforce,,ki2_psych_wte
+3,Key Indicator 3:  Out of hours presence of stroke specialist nurse                             (Criterion: Met if there is at least one stroke specialist nurse per 10 beds on 10pm weekdays and 10am and 10pm weekends),7-day working,,ki3
+3,Out of hours,7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_outofhours
+3,Registered nurses Type 1 Beds (weekdays 10 pm),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed1_weekdays10pm
+3,Registered nurses Type 1 Beds (Saturdays),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed1_saturdays
+3,Registered nurses Type 1 Beds (Saturdays 10 pm),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed1_saturdays10pm
+3,Registered nurses Type 1 Beds (Sundays),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed1_sundays
+3,Registered nurses Type 1 Beds (Sundays 10 pm),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed1_sundays10pm
+3,Registered nurses Type 3 Beds (weekdays 10 pm),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed3_weekdays10pm
+3,Registered nurses Type 3 Beds (Saturdays),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed3_saturdays
+3,Registered nurses Type 3 Beds (Saturdays 10 pm),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed3_saturdays10pm
+3,Registered nurses Type 3 Beds (Sundays),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed3_sundays
+3,Registered nurses Type 3 Beds (Sundays 10 pm),7-day working,1.7. Do you have stroke specialist nurses (band 6 or above) who undertake hyper-acute assessments of suspected stroke patients in A&E?,ki3_strokenurse_bed3_sundays10pm
+4,Key Indicator 4: Minimum number of nurses on duty at 10am weekends              (Criterion: Met if have 3.0 nurses per 10 type 1 and 3 beds (average number of nurses on duty on type 1 and type 3 beds),7-day working,,ki4
+4,Nurses per 10 type 1 beds 10am Saturdays,7-day working,,ki4_minimum_nurse_bed1_saturdays10am
+4,Nurses per 10 type 1 beds 10am Sundays,7-day working,,ki4_minimum_nurse_bed1_sundays10am
+4,"Nurses per 10 type 3 beds 10am Saturdays
+",7-day working,,ki4_minimum_nurse_bed3_saturdays10am
+4,"Nurses per 10 type 3 beds 10am Sundays
+",7-day working,,ki4_minimum_nurse_bed3_sundays10am
+5,"Key Indicator 5: At least two types of therapy available 7 days a week                    (Criterion: Met if 7-day working for at least two types of qualified therapy. Includes occupational therapy, physiotherapy and speech and language therapy)",7-day working,,ki5
+5,(e) Occupational Therapy (qualified),7-day working,,ki5_occupationaltherapy_7days
+5,(g) Physiotherapy (qualified),7-day working,,ki5_physiotherapy_7days
+5,(i) Speech & Language Therapy (qualified),7-day working,,ki5_speechlanguagetherapy_7days
+6,"Key Indicator 6: Stroke team receives a pre-alert for suspected stroke patients (Criterion: Met if a pre-alert is received for all types of strokes and if the call is made to Stroke Specialist Nurse, Stroke Consultant on call or Stroke Junior Doctor)",Access to specialist treatment and support,,ki6
+6,Thrombolysis candidates only,Access to specialist treatment and support,1.10. Do the stroke team receive a pre-alert (telephone call) from your ambulance crews for suspected stroke patients?,ki6_prealert_ivtcandidates
+6,All FAST positive,Access to specialist treatment and support,1.10. Do the stroke team receive a pre-alert (telephone call) from your ambulance crews for suspected stroke patients?,ki6_prealert_fastpositive
+6,All other suspected strokes,Access to specialist treatment and support,1.10. Do the stroke team receive a pre-alert (telephone call) from your ambulance crews for suspected stroke patients?,ki6_prealert_othersuspectedstroke
+6,Stroke Specialist Nurse,Access to specialist treatment and support,"1.11. If the stroke team receive a pre-alert, who is the call usually made to? ",ki6_prealert_strokenurse
+6,Stroke Junior Doctor on call,Access to specialist treatment and support,"1.11. If the stroke team receive a pre-alert, who is the call usually made to? ",ki6_prealert_juniordoctor
+6,Stroke Consultant on call,Access to specialist treatment and support,"1.11. If the stroke team receive a pre-alert, who is the call usually made to? ",ki6_prealert_consultant
+7,"Key Indicator 7:  Access to a specialist (stroke/neurological specific) early supported discharge (ESD) team 
+(Criterion: Met if they have access to at least one stroke stroke/neurology specific early supported discharge multidisciplinary team AND at least 66% of patients have access to at least one of the teams if needed)",Access to specialist treatment and support,,ki7
+7,6.1. Do you have access to at least one stroke/neurology specific early supported discharge multidisciplinary team?,Access to specialist treatment and support,,ki7_stroke_esd_team
+7,6.1 (b) What percentage of your patients has access to at least one of these teams if needed?,Access to specialist treatment and support,,ki7_percent_access_to_stroke_esd_team
+8,Key Indicator 8: Formal survey undertaken seeking patient/carer views on stroke services (Criterion: Met if at least one a year),Patient and carer engagement,,ki8
+8,9.7. How often is there a formal survey seeking patient/carer views on stroke services? (This does not include the Friends and Family Test),Patient and carer engagement,,ki8_patientcarersurvey_frequency
+9,"Key Indicator 9: First line of brain imaging for TIA patients is MRI
+(Criterion: Met if MRI is first line brain imaging for suspected TIA AND investigations are completed within in 2 days (Next weekday, the next day, the same day (5 days a week) or the same day (7 days a week))",TIA service,,ki9
+9,(a) First line brain imaging,TIA service,4.10. Which imaging modality do you most frequently use in your neurovascular clinic for suspected TIAs?,ki9_tia_brainimaging_mostused
+9,Outpatient,TIA service,"7.11. Within what timescale can you see, investigate and initiate treatment for ALL your TIA patients?  ",ki9_tia_outpatients_seen
+9,Outpatient timescale,TIA service,"7.11. Within what timescale can you see, investigate and initiate treatment for ALL your TIA patients?  ",ki9_tia_outpatient_timescale
+10,"Key Indicator 10: Management level that takes responsibility for audit results 
+(Criterion: Met if Executive on the Board, Non-executive on the Board, or Chairman of Clinical Governance takes responsibility for the follow-up of stroke audit results)",Quality improvement and leadership,,ki10
+10,Executive on the Board,Quality improvement and leadership,9.1. What level of management takes responsibility for the follow-up of the results and recommendations of the Sentinel Stroke Audit?,ki10_management_executiveonboard
+10,Non-executive on the Board,Quality improvement and leadership,9.1. What level of management takes responsibility for the follow-up of the results and recommendations of the Sentinel Stroke Audit?,ki10_management_nonexecutiveonboard
+10,Chairman of Clinical Governance (or equivalent),Quality improvement and leadership,9.1. What level of management takes responsibility for the follow-up of the results and recommendations of the Sentinel Stroke Audit?,ki10_management_chairmanofclinicalgovernance
